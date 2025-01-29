@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Week1/velopix_tracking/event_model"
+    ]
+}
